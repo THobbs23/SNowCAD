@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Loaner Request">c92a14ad959650107f44d81adb183334</category>
+        <order>200</order>
+        <property display_value="x_cdltd_loaner_req.return.remindtime" name="x_cdltd_loaner_req.return.remindtime">64fa1cad959650107f44d81adb18330a</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 21:22:23</sys_created_on>
+        <sys_id>7e9b90ed959650107f44d81adb1833cf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.return.remindtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">27046a41951e10107f44d81adb1833fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">27046a41951e10107f44d81adb1833fd</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7e9b90ed959650107f44d81adb1833cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 21:23:09</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
